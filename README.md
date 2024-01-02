@@ -9,7 +9,7 @@
     <header>
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand text-white" href="#">Assignments</a>
+          <h1 class="navbar-brand text-white">Assignments</h1>
           <button
             class="navbar-toggler"
             type="button"
@@ -24,12 +24,10 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a
+                <h2
                   class="nav-link active text-white"
                   aria-current="page"
-                  href="#"
-                  >Chapter 39 - 42</a
-                >
+                  >Chapter 39 - 42</h2>
               </li>
             </ul>
             <form class="d-flex" role="search">
